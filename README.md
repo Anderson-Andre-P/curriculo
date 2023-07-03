@@ -6,7 +6,7 @@
    Currículo desenvolvido para apresentar o meu perfil para empresas
 </h2>
 
-<p align="center">Você pode ver o site currículo <a href="https://anderson-andre-p.github.io/curriculo/" target="_blank">clicando aqui</a>.
+<p align="center">Você pode ver o site currículo <a href="[https://anderson-andre-p.github.io/curriculo/](https://anderson-andre.netlify.app/)" target="_blank">clicando aqui</a>.
 </p>
 
 ![Resume cv](/CV-Demo.png)
